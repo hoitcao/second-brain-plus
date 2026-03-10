@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test-workspace/
+test_runner.py
+gen_*.py
+TEST_*.md
+findings.md
+task_plan.md
+
+# IDE
+.vscode/
+.idea/
+
+# CodeBuddy
+.codebuddy/
