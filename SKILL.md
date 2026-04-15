@@ -1,3 +1,8 @@
+---
+name: second-brain-plus
+description: 小鸭头帮你收藏——自动抓取 URL 或想法，直接写入知识库（Inbox + 存档 + 线索追加），无需确认。支持去重、线索匹配、认知摘要。
+---
+
 # Second Brain Skill - Inbox Judge
 
 > 小鸭头帮你收藏 | by 袅袅
